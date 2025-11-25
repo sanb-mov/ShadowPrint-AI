@@ -13,13 +13,13 @@
 ---
 
 ## 🧩 Características Principales
-```
+
 *   **🔒 Privacidad Absoluta:** No registra texto (no es un keylogger). Solo captura marcas de tiempo (timestamps) y vectores numéricos.
 *   **🧠 Identificación Biométrica:** Crea una "Huella Digital de Comportamiento" única basada en ritmos subconscientes.
 *   **⚡ Detección en Tiempo Real:** Analiza el flujo de trabajo en ventanas de 10 segundos para autenticar continuamente.
 *   **🤖 Anti-Bot:** Distingue fácilmente entre un humano y un script automatizado (los bots son demasiado "perfectos" o lineales).
 *   **🚨 Detección de Intrusos:** Si dejas tu PC desbloqueada y alguien intenta usarla, el sistema detectará la anomalía conductual.
-```
+
 ---
 
 ## ⚙️ Cómo Funciona
