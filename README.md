@@ -105,8 +105,7 @@ ShadowPrintAI/
 │   ├── features.py       # Ingeniería de características (Matemáticas)
 │   └── model.py          # Lógica de detección de anomalías
 ├── main.py               # CLI y Orquestador
-├── requirements.txt      # Dependencias
-└── README.md             # Documentación
+└── requirements.txt      # Dependencias
 ```
 
 ---
