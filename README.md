@@ -1,6 +1,5 @@
 ***
 # 🕵️ ShadowPrint AI
-markdown
 > **Perfilado de Comportamiento por Micro-Tiempos Humanos**  
 > *Autenticación Continua (Zero Trust) basada en Biometría Conductual.*
 
