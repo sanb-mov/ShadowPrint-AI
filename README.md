@@ -42,7 +42,7 @@ Requiere Python 3.8 o superior.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/ShadowPrintAI.git](https://github.com/sanb-mov/ShadowPrint-AI)
+   git clone https://github.com/sanb-mov/ShadowPrint-AI
    cd ShadowPrint-AI
    ```
 
@@ -56,7 +56,12 @@ Requiere Python 3.8 o superior.
    ```bash
    pip install -r requirements.txt
    ```
+**Posible error de las librerias**
+Depende de la versión de Python que tengas, algunas librerías pueden no funcionar.
 
+ ```En tal caso utiliza este comando
+pip install pandas scikit-learn pynput numpy joblib colorama
+ ```
 ---
 
 ## 🕹️ Uso
