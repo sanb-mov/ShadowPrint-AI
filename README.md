@@ -59,9 +59,9 @@ Requiere Python 3.8 o superior.
 **Posible error de las librerias**
 Depende de la versión de Python que tengas, algunas librerías pueden no funcionar.
 
- ```En tal caso utiliza este comando
-pip install pandas scikit-learn pynput numpy joblib colorama
- ```
+  ```En tal caso utiliza este comando
+  pip install pandas scikit-learn pynput numpy joblib colorama
+  ```
 ---
 
 ## 🕹️ Uso
